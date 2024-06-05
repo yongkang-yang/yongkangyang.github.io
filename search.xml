@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>x</title>
-    <url>/posts/8cdc1683/</url>
-    <content><![CDATA[<p>Hello</p>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-  </entry>
-  <entry>
     <title>my first website</title>
     <url>/posts/4f1dc535/</url>
     <content><![CDATA[<p>Test</p>
@@ -20,5 +11,14 @@
       <tags>
         <tag>x</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>x</title>
+    <url>/posts/8cdc1683/</url>
+    <content><![CDATA[<p>Hello</p>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
   </entry>
 </search>
