@@ -1,0 +1,22 @@
+.support-container {
+    margin: 20px;
+  }
+  
+  .post-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .post-item {
+    margin-bottom: 20px;
+  }
+  
+  .post-item a {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .post-item p {
+    margin: 5px 0;
+  }
+  
