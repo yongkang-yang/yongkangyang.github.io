@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>x</title>
+    <title>test blog</title>
     <url>/posts/8cdc1683/</url>
-    <content><![CDATA[<p>Hello</p>
+    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>support</category>
       </categories>
   </entry>
   <entry>
-    <title>Supporting materials</title>
+    <title>Welcome to my site!</title>
     <url>/posts/4f1dc535/</url>
     <content><![CDATA[<p>Hi there!</p>
-<p>&emsp;&emsp;Welcome to my website!! During my research journey, I encountered numerous challenges that took up many hours to overcome. But I learned so much along the way, and I don’t want others to have to reinvent the wheel like I did.<br>&emsp;&emsp;That’s why I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I truly hope these materials can give you a head start and make your life a bit easier.<br>&emsp;&emsp;If you find anything here valuable, I’d be happy if you could spread the word to your colleagues, classmates, or friends who might benefit too. And feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <a href="mailto:&#114;&#101;&#115;&#101;&#97;&#114;&#99;&#x68;&#x40;&#x79;&#111;&#110;&#103;&#x6b;&#x61;&#x6e;&#103;&#121;&#x61;&#110;&#x67;&#x2e;&#99;&#x6f;&#109;">&#114;&#101;&#115;&#101;&#97;&#114;&#99;&#x68;&#x40;&#x79;&#111;&#110;&#103;&#x6b;&#x61;&#x6e;&#103;&#121;&#x61;&#110;&#x67;&#x2e;&#99;&#x6f;&#109;</a> so I can keep things up-to-date.<br>&emsp;&emsp;This site is my humble way of paying it forward to the community that has supported me. Thanks for stopping by, and happy learning!</p>
-<p>Warm Regards,<br>Yongkang</p>
+<p>Welcome to my website!!</p>
+<p>I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I might also post some blogs about research. Feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <a href="mailto:&#114;&#x65;&#x73;&#101;&#x61;&#114;&#x63;&#x68;&#64;&#x79;&#x6f;&#x6e;&#x67;&#107;&#x61;&#110;&#103;&#121;&#x61;&#110;&#103;&#x2e;&#99;&#x6f;&#x6d;">&#114;&#x65;&#x73;&#101;&#x61;&#114;&#x63;&#x68;&#64;&#x79;&#x6f;&#x6e;&#x67;&#107;&#x61;&#110;&#103;&#121;&#x61;&#110;&#103;&#x2e;&#99;&#x6f;&#x6d;</a> so I can keep things up-to-date.</p>
+<p>Thanks for stopping by, and happy life!</p>
 <p>&#8595;&#8595;&#8595;<br><a href="http://www.yongkangyang.com/categories/support/">Click this link and start to explore!</a></p>
 ]]></content>
       <categories>
