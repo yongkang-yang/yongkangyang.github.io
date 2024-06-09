@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test blog</title>
-    <url>/posts/8cdc1683/</url>
-    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Welcome to my site!</title>
     <url>/posts/4f1dc535/</url>
     <content><![CDATA[<p>Hi there!</p>
 <p>Welcome to my website!!</p>
-<p>I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I might also post some blogs about research. Feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <a href="mailto:&#114;&#101;&#x73;&#101;&#x61;&#x72;&#99;&#x68;&#x40;&#x79;&#x6f;&#110;&#103;&#107;&#97;&#110;&#103;&#121;&#97;&#x6e;&#103;&#x2e;&#x63;&#x6f;&#109;">&#114;&#101;&#x73;&#101;&#x61;&#x72;&#99;&#x68;&#x40;&#x79;&#x6f;&#110;&#103;&#107;&#97;&#110;&#103;&#121;&#97;&#x6e;&#103;&#x2e;&#x63;&#x6f;&#109;</a> so I can keep things up-to-date.</p>
+<p>I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I might also post some blogs about research. Feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <a href="mailto:&#114;&#101;&#115;&#x65;&#97;&#x72;&#x63;&#104;&#x40;&#121;&#111;&#x6e;&#103;&#107;&#97;&#110;&#103;&#x79;&#97;&#x6e;&#x67;&#x2e;&#99;&#111;&#109;">&#114;&#101;&#115;&#x65;&#97;&#x72;&#x63;&#104;&#x40;&#121;&#111;&#x6e;&#103;&#107;&#97;&#110;&#103;&#x79;&#97;&#x6e;&#x67;&#x2e;&#99;&#111;&#109;</a> so I can keep things up-to-date.</p>
 <p>Thanks for stopping by, and happy life!</p>
 <div class="note primary"><h4 id="8595-8595-8595"><a href="#8595-8595-8595" class="headerlink" title="&#8595;&#8595;&#8595;"></a>&#8595;&#8595;&#8595;</h4><p><a href="http://www.yongkangyang.com/categories/support/">Click this link and start to explore!</a></p>
 </div>]]></content>
@@ -24,5 +15,14 @@
       <tags>
         <tag>support</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>test blog</title>
+    <url>/posts/8cdc1683/</url>
+    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
   </entry>
 </search>
