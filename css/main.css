@@ -715,6 +715,10 @@ pre code {
     transform: translate(1pt, -2pt) rotate(-1deg);
   }
 }
+.mermaid {
+  margin-bottom: 20px;
+  text-align: center;
+}
 .post-body .note {
   border-radius: 3px;
   margin-bottom: 20px;
@@ -1190,7 +1194,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #3d47f1;
+  background: #ffb83b;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2477,6 +2481,13 @@ mark.search-keyword {
   border-bottom: 1px dashed #ff2a2a;
   color: #ff2a2a;
   font-weight: bold;
+}
+mjx-container[jax='CHTML'][display='true'],
+.has-jax {
+  overflow: auto hidden;
+}
+mjx-container[display='true'] + br {
+  display: none;
 }
 .use-motion .animated {
   animation-fill-mode: none;
