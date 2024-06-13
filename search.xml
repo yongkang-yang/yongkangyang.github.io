@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>How to batch edit title case into sentence case for multuple items</title>
-    <url>/posts/4e75520/</url>
+    <title>test blog</title>
+    <url>/posts/8cdc1683/</url>
+    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>How to keep track of the latest journal articles</title>
+    <url>/posts/2bab4f46/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png"
 alt="underconstruction.png" />    <span id="more"></span>   </p>
 ]]></content>
@@ -10,9 +19,8 @@ alt="underconstruction.png" />    <span id="more"></span>   </p>
         <category>support</category>
       </categories>
       <tags>
-        <tag>zotero</tag>
-        <tag>javascript</tag>
-        <tag>sentence case</tag>
+        <tag>rss</tag>
+        <tag>alert</tag>
       </tags>
   </entry>
   <entry>
@@ -41,17 +49,8 @@ link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
       </tags>
   </entry>
   <entry>
-    <title>test blog</title>
-    <url>/posts/8cdc1683/</url>
-    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>How to keep track of the latest journal articles</title>
-    <url>/posts/2bab4f46/</url>
+    <title>How to batch edit title case into sentence case for multuple items</title>
+    <url>/posts/4e75520/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png"
 alt="underconstruction.png" />    <span id="more"></span>   </p>
 ]]></content>
@@ -59,8 +58,9 @@ alt="underconstruction.png" />    <span id="more"></span>   </p>
         <category>support</category>
       </categories>
       <tags>
-        <tag>rss</tag>
-        <tag>alert</tag>
+        <tag>zotero</tag>
+        <tag>javascript</tag>
+        <tag>sentence case</tag>
       </tags>
   </entry>
 </search>
