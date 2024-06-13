@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>How to batch edit title case into sentence case for multuple items</title>
-    <url>/posts/4e75520/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png" alt="underconstruction.png"><br>&emsp;&emsp;</p>
-<span id="more"></span>
-<p>&emsp;&emsp;</p>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-      <tags>
-        <tag>zotero</tag>
-        <tag>javascript</tag>
-        <tag>sentence case</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test blog</title>
-    <url>/posts/8cdc1683/</url>
-    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-  </entry>
-  <entry>
     <title>How to keep track of the latest journal articles</title>
     <url>/posts/2bab4f46/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png" alt="underconstruction.png"><br>&emsp;&emsp;</p>
@@ -41,11 +16,20 @@
       </tags>
   </entry>
   <entry>
+    <title>test blog</title>
+    <url>/posts/8cdc1683/</url>
+    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Welcome to my site!</title>
     <url>/posts/4f1dc535/</url>
     <content><![CDATA[<p>Hi there!</p>
 <p>Welcome to my website!!</p>
-<p>I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I might also post some blogs about research. Feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <span class="exturl" data-url="bWFpbHRvOiYjeDcyOyYjeDY1OyYjMTE1OyYjeDY1OyYjOTc7JiN4NzI7JiN4NjM7JiN4Njg7JiN4NDA7JiN4Nzk7JiMxMTE7JiN4NmU7JiMxMDM7JiN4NmI7JiN4NjE7JiMxMTA7JiN4Njc7JiN4Nzk7JiN4NjE7JiMxMTA7JiN4Njc7JiN4MmU7JiM5OTsmI3g2ZjsmIzEwOTs=">&#x72;&#x65;&#115;&#x65;&#97;&#x72;&#x63;&#x68;&#x40;&#x79;&#111;&#x6e;&#103;&#x6b;&#x61;&#110;&#x67;&#x79;&#x61;&#110;&#x67;&#x2e;&#99;&#x6f;&#109;<i class="fa fa-external-link-alt"></i></span> so I can keep things up-to-date.</p>
+<p>I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I might also post some blogs about research. Feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <span class="exturl" data-url="bWFpbHRvOiYjeDcyOyYjMTAxOyYjMTE1OyYjMTAxOyYjOTc7JiMxMTQ7JiN4NjM7JiMxMDQ7JiM2NDsmI3g3OTsmI3g2ZjsmIzExMDsmI3g2NzsmI3g2YjsmIzk3OyYjeDZlOyYjMTAzOyYjMTIxOyYjOTc7JiN4NmU7JiN4Njc7JiM0NjsmI3g2MzsmI3g2ZjsmI3g2ZDs=">&#x72;&#101;&#115;&#101;&#97;&#114;&#x63;&#104;&#64;&#x79;&#x6f;&#110;&#x67;&#x6b;&#97;&#x6e;&#103;&#121;&#97;&#x6e;&#x67;&#46;&#x63;&#x6f;&#x6d;<i class="fa fa-external-link-alt"></i></span> so I can keep things up-to-date.</p>
 <p>Thanks for stopping by, and happy life!</p>
 <div class="note primary"><h4 id="8595-8595-8595"><a href="#8595-8595-8595" class="headerlink" title="&#8595;&#8595;&#8595;"></a>&#8595;&#8595;&#8595;</h4><p><span class="exturl" data-url="aHR0cDovL3d3dy55b25na2FuZ3lhbmcuY29tL2NhdGVnb3JpZXMvc3VwcG9ydC8=">Click this link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
 </div>]]></content>
@@ -54,6 +38,22 @@
       </categories>
       <tags>
         <tag>support</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to batch edit title case into sentence case for multuple items</title>
+    <url>/posts/4e75520/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png" alt="underconstruction.png"><br>&emsp;&emsp;</p>
+<span id="more"></span>
+<p>&emsp;&emsp;</p>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
+      <tags>
+        <tag>zotero</tag>
+        <tag>javascript</tag>
+        <tag>sentence case</tag>
       </tags>
   </entry>
 </search>
