@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test blog</title>
+    <url>/posts/8cdc1683/</url>
+    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Welcome to my site!</title>
     <url>/posts/4f1dc535/</url>
     <content><![CDATA[<p>Hi there!</p>
 <p>Welcome to my website!!</p>
-<p>I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I might also post some blogs about research. Feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <span class="exturl" data-url="bWFpbHRvOiYjeDcyOyYjeDY1OyYjeDczOyYjeDY1OyYjOTc7JiN4NzI7JiN4NjM7JiMxMDQ7JiN4NDA7JiN4Nzk7JiMxMTE7JiMxMTA7JiMxMDM7JiN4NmI7JiM5NzsmI3g2ZTsmIzEwMzsmIzEyMTsmI3g2MTsmI3g2ZTsmIzEwMzsmIzQ2OyYjOTk7JiMxMTE7JiN4NmQ7">&#x72;&#x65;&#x73;&#x65;&#97;&#x72;&#x63;&#104;&#x40;&#x79;&#111;&#110;&#103;&#x6b;&#97;&#x6e;&#103;&#121;&#x61;&#x6e;&#103;&#46;&#99;&#111;&#x6d;<i class="fa fa-external-link-alt"></i></span> so I can keep things up-to-date.</p>
+<p>I created this little corner of the internet - to share all the <strong>handy tools</strong>, <strong>formulas</strong>, <strong>code snippets</strong>, and other useful resources I’ve collected. I might also post some blogs about research. Feel free to explore everything using that “<strong>Search</strong>“ button at the top. If you find anything unavailable or outdated, please email me at <span class="exturl" data-url="bWFpbHRvOiYjeDcyOyYjMTAxOyYjMTE1OyYjMTAxOyYjeDYxOyYjMTE0OyYjOTk7JiMxMDQ7JiN4NDA7JiN4Nzk7JiMxMTE7JiMxMTA7JiMxMDM7JiMxMDc7JiN4NjE7JiMxMTA7JiMxMDM7JiMxMjE7JiM5NzsmI3g2ZTsmIzEwMzsmI3gyZTsmIzk5OyYjeDZmOyYjeDZkOw==">&#x72;&#101;&#115;&#101;&#x61;&#114;&#99;&#104;&#x40;&#x79;&#111;&#110;&#103;&#107;&#x61;&#110;&#103;&#121;&#97;&#x6e;&#103;&#x2e;&#99;&#x6f;&#x6d;<i class="fa fa-external-link-alt"></i></span> so I can keep things up-to-date.</p>
 <p>Thanks for stopping by, and happy life!</p>
 <div class="note primary"><h4 id="8595-8595-8595"><a href="#8595-8595-8595" class="headerlink" title="&#8595;&#8595;&#8595;"></a>&#8595;&#8595;&#8595;</h4><p><span class="exturl" data-url="aHR0cDovL3d3dy55b25na2FuZ3lhbmcuY29tL2NhdGVnb3JpZXMvc3VwcG9ydC8=">Click this link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
 </div>]]></content>
@@ -15,14 +24,5 @@
       <tags>
         <tag>support</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>test blog</title>
-    <url>/posts/8cdc1683/</url>
-    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
   </entry>
 </search>
