@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>How to batch edit title case into sentence case for multuple items</title>
+    <url>/posts/4e75520/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png"
+alt="underconstruction.png" />    <span id="more"></span>   </p>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
+      <tags>
+        <tag>zotero</tag>
+        <tag>javascript</tag>
+        <tag>sentence case</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Mplus Code for Measurement invariance and LCS model</title>
+    <url>/posts/b97fc5b4/</url>
+    <content><![CDATA[<div class="note info"><h4 id="info">Info</h4>
+<p><strong>Click this link to access the file</strong> <span class="exturl" data-url="aHR0cHM6Ly9vc2YuaW8vOTd5bjQv">OSF link<i class="fa fa-external-link-alt"></i></span></p>
+</div>
+<p><strong>Reference</strong>:</p>
+<p>Li, W.-D., Wang, J., Allen, T., Zhang, X., Yu, K., Zhang, H., Huang,
+J. L., Liu, M., &amp; Li, A. (2024). Getting under the skin? Influences
+of work–family experiences on personality trait adaptation and
+reciprocal relationships. <em>Journal of Personality and Social
+Psychology, 126</em>(4), 694–718. <span class="exturl" data-url="aHR0cHM6Ly9wc3ljbmV0LmFwYS5vcmcvZG9pLzEwLjEwMzcvcHNwcDAwMDA0NzY=">https://doi.org/10.1037/pspp0000476<i class="fa fa-external-link-alt"></i></span></p>
+]]></content>
+      <categories>
+        <category>support</category>
+      </categories>
+      <tags>
+        <tag>measurement invariance</tag>
+        <tag>latent change score model</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to keep track of the latest journal articles</title>
     <url>/posts/2bab4f46/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png"
@@ -37,30 +73,6 @@ link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
       </categories>
       <tags>
         <tag>support</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>test blog</title>
-    <url>/posts/8cdc1683/</url>
-    <content><![CDATA[<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">Hello world. This is a test blog.</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>How to batch edit title case into sentence case for multuple items</title>
-    <url>/posts/4e75520/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/06/13/tXJbyKCZNLYjp29.png"
-alt="underconstruction.png" />    <span id="more"></span>   </p>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-      <tags>
-        <tag>zotero</tag>
-        <tag>javascript</tag>
-        <tag>sentence case</tag>
       </tags>
   </entry>
 </search>
