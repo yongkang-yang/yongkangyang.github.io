@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yongkangyang.com/posts/4f1dc535/</loc>
+    
+    <lastmod>2024-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongkangyang.com/posts/b97fc5b4/</loc>
+    
+    <lastmod>2024-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yongkangyang.com/posts/2bab4f46/</loc>
     
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongkangyang.com/posts/4e75520/</loc>
+    
+    <lastmod>2024-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongkangyang.com/Blog/index.html</loc>
+    
+    <lastmod>2024-06-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20,25 +56,7 @@
   </url>
   
   <url>
-    <loc>http://yongkangyang.com/posts/4e75520/</loc>
-    
-    <lastmod>2024-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yongkangyang.com/Contact/index.html</loc>
-    
-    <lastmod>2024-06-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yongkangyang.com/posts/b97fc5b4/</loc>
     
     <lastmod>2024-06-14</lastmod>
     
@@ -73,85 +91,67 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://yongkangyang.com/posts/4f1dc535/</loc>
-    
-    <lastmod>2024-06-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yongkangyang.com/Support/index.html</loc>
-    
-    <lastmod>2024-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://yongkangyang.com/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://yongkangyang.com/tags/support/</loc>
+    <lastmod>2024-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://yongkangyang.com/tags/zotero/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yongkangyang.com/tags/javascript/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yongkangyang.com/tags/sentence-case/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yongkangyang.com/tags/rss/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yongkangyang.com/tags/email-alert/</loc>
-    <lastmod>2024-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://yongkangyang.com/tags/support/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yongkangyang.com/tags/measurement-invariance/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://yongkangyang.com/tags/latent-change-score-model/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -159,8 +159,8 @@
 
   
   <url>
-    <loc>http://yongkangyang.com/categories/support/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <loc>http://yongkangyang.com/categories/blog/</loc>
+    <lastmod>2024-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

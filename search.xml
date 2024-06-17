@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Welcome to my site!</title>
+    <url>/posts/4f1dc535/</url>
+    <content><![CDATA[<p>Hi there!</p>
+<p>Welcome to my website!!</p>
+<p>I created this little corner of the internet - to share all the
+<strong>handy tools</strong>, <strong>formulas</strong>, <strong>code
+snippets</strong>, and other useful resources I've collected. I might
+also post some blogs about research. Feel free to explore everything
+using that "<strong>Search</strong>" button at the top. If you find
+anything unavailable or outdated, please email me at
+research@yongkangyang.com so I can keep things up-to-date.</p>
+<p>Thanks for stopping by, and happy life!</p>
+<div class="note primary"><h4 id="section">↓↓↓</h4>
+<p><span class="exturl" data-url="aHR0cDovL3d3dy55b25na2FuZ3lhbmcuY29tL2NhdGVnb3JpZXMvc3VwcG9ydC8=">Click this
+link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
+</div>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>support</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>How to batch edit title case into sentence case for multuple items</title>
     <url>/posts/4e75520/</url>
     <content><![CDATA[<p>Zotero users might use APA 7<sup>th</sup> for their reference. There
@@ -27,7 +52,7 @@ doi, etc.) are right.</p>
 <p>Find other useful scripts in Zotero, click: <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3JlZGxlYWZuZXcvem90ZXJvLWphdmFzY3JpcHRz">zotero-javascripts<i class="fa fa-external-link-alt"></i></span></p>
 ]]></content>
       <categories>
-        <category>support</category>
+        <category>blog</category>
       </categories>
       <tags>
         <tag>zotero</tag>
@@ -58,8 +83,8 @@ Elsevier, you are able to follow all these journal by email alert (see a
 screenshot below).</p>
 <figure>
 <img src="https://s2.loli.net/2024/06/16/HFA4nTBCzYa1QRJ.png"
-alt="image.png" />
-<figcaption aria-hidden="true">image.png</figcaption>
+alt="Manage my publication.png" />
+<figcaption aria-hidden="true">Manage my publication.png</figcaption>
 </figure>
 <p>It's the same for Willy, Sage and other publishers only if you know
 which journal is in which publisher.</p>
@@ -69,36 +94,11 @@ which journal is in which publisher.</p>
 <p>The email alert is a good way but</p>
 ]]></content>
       <categories>
-        <category>support</category>
+        <category>blog</category>
       </categories>
       <tags>
         <tag>rss</tag>
         <tag>email alert</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Welcome to my site!</title>
-    <url>/posts/4f1dc535/</url>
-    <content><![CDATA[<p>Hi there!</p>
-<p>Welcome to my website!!</p>
-<p>I created this little corner of the internet - to share all the
-<strong>handy tools</strong>, <strong>formulas</strong>, <strong>code
-snippets</strong>, and other useful resources I've collected. I might
-also post some blogs about research. Feel free to explore everything
-using that "<strong>Search</strong>" button at the top. If you find
-anything unavailable or outdated, please email me at
-research@yongkangyang.com so I can keep things up-to-date.</p>
-<p>Thanks for stopping by, and happy life!</p>
-<div class="note primary"><h4 id="section">↓↓↓</h4>
-<p><span class="exturl" data-url="aHR0cDovL3d3dy55b25na2FuZ3lhbmcuY29tL2NhdGVnb3JpZXMvc3VwcG9ydC8=">Click this
-link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
-</div>
-]]></content>
-      <categories>
-        <category>support</category>
-      </categories>
-      <tags>
-        <tag>support</tag>
       </tags>
   </entry>
   <entry>
@@ -126,7 +126,7 @@ research: https://www.wendongli.com/index.php/for-sharing/</p>
 <p>The results and Mplus code can be found in this repo:</p>
 ]]></content>
       <categories>
-        <category>support</category>
+        <category>blog</category>
       </categories>
       <tags>
         <tag>measurement invariance</tag>
