@@ -36,62 +36,6 @@ doi, etc.) are right.</p>
       </tags>
   </entry>
   <entry>
-    <title>Welcome to my site!</title>
-    <url>/posts/4f1dc535/</url>
-    <content><![CDATA[<p>Hi there!</p>
-<p>Welcome to my website!!</p>
-<p>I created this little corner of the internet - to share all the
-<strong>handy tools</strong>, <strong>formulas</strong>, <strong>code
-snippets</strong>, and other useful resources I've collected. Feel free
-to explore everything using that "<strong>Search</strong>" button at the
-top. If you find anything unavailable or outdated, please email me at <a
-href="mailto:research@yongkangyang.com">research@yongkangyang.com</a> so
-I can keep things up-to-date.</p>
-<p>Thanks for stopping by, and happy life!</p>
-<div class="note primary"><h4 id="section">↓↓↓</h4>
-<p><span class="exturl" data-url="aHR0cDovL3d3dy55b25na2FuZ3lhbmcuY29tL2NhdGVnb3JpZXMvYmxvZy8=">Click this
-link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
-</div>
-]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>support</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Mplus Code for Measurement invariance and LCS model</title>
-    <url>/posts/b97fc5b4/</url>
-    <content><![CDATA[<div class="note info"><h4 id="info">Info</h4>
-<p><strong>Click this link to access the file</strong> <span class="exturl" data-url="aHR0cHM6Ly9vc2YuaW8vOTd5bjQv">OSF link<i class="fa fa-external-link-alt"></i></span></p>
-</div>
-<p><strong>Reference</strong>:</p>
-<p>Li, W.-D., Wang, J., Allen, T., Zhang, X., Yu, K., Zhang, H., Huang,
-J. L., Liu, M., &amp; Li, A. (2024). Getting under the skin? Influences
-of work–family experiences on personality trait adaptation and
-reciprocal relationships. <em>Journal of Personality and Social
-Psychology, 126</em>(4), 694–718. <span class="exturl" data-url="aHR0cHM6Ly9wc3ljbmV0LmFwYS5vcmcvZG9pLzEwLjEwMzcvcHNwcDAwMDA0NzY=">https://doi.org/10.1037/pspp0000476<i class="fa fa-external-link-alt"></i></span></p>
-<blockquote>
-<p>Strongly Recommend Prof. Wendong Li's Website for longitudinal
-research: <span class="exturl" data-url="aHR0cHM6Ly93d3cud2VuZG9uZ2xpLmNvbS9pbmRleC5waHAvZm9yLXNoYXJpbmcv">https://www.wendongli.com/index.php/for-sharing/<i class="fa fa-external-link-alt"></i></span></p>
-</blockquote>
-<h3>
-<span style="color:#040273;">Latent change score model</span>
-</h3>
-<p><b>A Replication of <span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjExNzcvMTA5NDQyODEyMDk2Mzc4OA==">Matusik et al
-(2021)<i class="fa fa-external-link-alt"></i></span></b></p>
-<p>The results and Mplus code can be found in this repo:</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>measurement invariance</tag>
-        <tag>latent change score model</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>How to keep track of the latest journal articles</title>
     <url>/posts/2bab4f46/</url>
     <content><![CDATA[<p>Probably just me, every once a while, I feel myself anxious being
@@ -174,6 +118,62 @@ filed, papers will reach out to you.</p>
         <tag>rss</tag>
         <tag>email alert</tag>
         <tag>browzine</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Welcome to my site!</title>
+    <url>/posts/4f1dc535/</url>
+    <content><![CDATA[<p>Hi there!</p>
+<p>Welcome to my website!!</p>
+<p>I created this little corner of the internet - to share all the
+<strong>handy tools</strong>, <strong>formulas</strong>, <strong>code
+snippets</strong>, and other useful resources I've collected. Feel free
+to explore everything using that "<strong>Search</strong>" button at the
+top. If you find anything unavailable or outdated, please email me at <a
+href="mailto:research@yongkangyang.com">research@yongkangyang.com</a> so
+I can keep things up-to-date.</p>
+<p>Thanks for stopping by, and happy life!</p>
+<div class="note primary"><h4 id="section">↓↓↓</h4>
+<p><span class="exturl" data-url="aHR0cDovL3d3dy55b25na2FuZ3lhbmcuY29tL2NhdGVnb3JpZXMvYmxvZy8=">Click this
+link and start to explore!<i class="fa fa-external-link-alt"></i></span></p>
+</div>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>support</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Mplus Code for Measurement invariance and LCS model</title>
+    <url>/posts/b97fc5b4/</url>
+    <content><![CDATA[<div class="note info"><h4 id="info">Info</h4>
+<p><strong>Click this link to access the file</strong> <span class="exturl" data-url="aHR0cHM6Ly9vc2YuaW8vOTd5bjQv">OSF link<i class="fa fa-external-link-alt"></i></span></p>
+</div>
+<p><strong>Reference</strong>:</p>
+<p>Li, W.-D., Wang, J., Allen, T., Zhang, X., Yu, K., Zhang, H., Huang,
+J. L., Liu, M., &amp; Li, A. (2024). Getting under the skin? Influences
+of work–family experiences on personality trait adaptation and
+reciprocal relationships. <em>Journal of Personality and Social
+Psychology, 126</em>(4), 694–718. <span class="exturl" data-url="aHR0cHM6Ly9wc3ljbmV0LmFwYS5vcmcvZG9pLzEwLjEwMzcvcHNwcDAwMDA0NzY=">https://doi.org/10.1037/pspp0000476<i class="fa fa-external-link-alt"></i></span></p>
+<blockquote>
+<p>Strongly Recommend Prof. Wendong Li's Website for longitudinal
+research: <span class="exturl" data-url="aHR0cHM6Ly93d3cud2VuZG9uZ2xpLmNvbS9pbmRleC5waHAvZm9yLXNoYXJpbmcv">https://www.wendongli.com/index.php/for-sharing/<i class="fa fa-external-link-alt"></i></span></p>
+</blockquote>
+<h3>
+<span style="color:#040273;">Latent change score model</span>
+</h3>
+<p><b>A Replication of <span class="exturl" data-url="aHR0cHM6Ly9kb2kub3JnLzEwLjExNzcvMTA5NDQyODEyMDk2Mzc4OA==">Matusik et al
+(2021)<i class="fa fa-external-link-alt"></i></span></b></p>
+<p>The results and Mplus code can be found in this repo:</p>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>measurement invariance</tag>
+        <tag>latent change score model</tag>
       </tags>
   </entry>
 </search>
